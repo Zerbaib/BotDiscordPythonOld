@@ -3,7 +3,7 @@
 # # # # # # # # # # { Info } # # # # # # # # # #
 - utilise Python 3.9.1 avec le module Discord.py
 - Bot français
-# # # { Patch Note } # # #
+# # # { Patch Note } # # # 
 - pour le moment rien
 # # # { Commandes } # # #
 - +ping | donne le ping en ms
