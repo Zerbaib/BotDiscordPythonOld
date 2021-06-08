@@ -123,6 +123,6 @@ async def rules(ctx):
 
 # # # # Block Token # # #
 #
-bot.run('ODUxNzQxMzEyMTY0Mjk4NzUy.YL8r6Q.QGw-OZVnEJ6xzue7GgWOury5NpA')
+bot.run('TOKEN')
 #
 # # # # Fin Du Block Token # # #
