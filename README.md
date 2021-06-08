@@ -3,8 +3,9 @@
 # # # # # # # # # # { Info } # # # # # # # # # #
 - utilise Python 3.9.1 avec le module Discord.py
 - Bot français
-# # # { Patch Note } # # # 
-- pour le moment rien
+# # # { Patch Note } # # # ( le 8/06/2021 )
+- ajout d'un module jedit pour faire des fichier .json
+- il faut cree vautre fichier .json exemple : db.json
 # # # { Commandes } # # #
 - +ping | donne le ping en ms
 - +InfoServeur | donne des info sur le serveur discord ou se trouve le bot
