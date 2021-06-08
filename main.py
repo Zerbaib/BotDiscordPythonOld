@@ -1,9 +1,9 @@
 
  # Bot Discord
  # Fait avec python 3.9.1 avec le module discord.py
- # Pseudo : PikaPika
- # Tag : #4626
- # Id : 851741312164298752
+ # Pseudo : 
+ # Tag : #
+ # Id : 
 
 
 
@@ -38,9 +38,9 @@ async def on_ready():
 	print("---")
 	print('statut : "+help"')
 	print("---")
-	print("Pseudo : PikaPika | InDev")
-	print("Tag : #4626")
-	print("Id : 851741312164298752")
+	print("Pseudo : ")
+	print("Tag : #")
+	print("Id : ")
 	print("----------")
 	print("commandes :")
 	print(" - +help")
