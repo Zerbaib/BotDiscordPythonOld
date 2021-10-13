@@ -1,48 +1,43 @@
 # BotDiscordPythonOld
 
-Un bot Discord qui devien de plus en plus vieux que je n'utilise plus.
+A Discord bot that's getting older and older that I don't use anymore.
 
-## Pour commencer
+## To start
 
-Il faut lire pour ne pas se rater.
+You have to read so as not to miss it.
 
-### Pré-requis
+### Prerequisites
 
-- Python 3 (j'utilise le 3.9.1)
-- avec le module Discord.py
+- Python 3 (I am using 3.9.1)
+- with the Discord.py module
 
 ### Installation
 
-_Etape 1_:
-Executez la commande:
+_Step 1_:
+Execute the command:
  ```pip install discord```
- pour avoir le module Discord.py et utiliser le projet.
+ to have the Discord.py module and use the project.
 
-_Etape 2_:
-Executer:
+_Step 2_:
+Execute:
  ```git clone https://github.com/Zerbaib/BotDiscordPythonOld.git```
- pour avoir les fichier du bot
+ to get the bot files
 
-
-_Etape 3_:
-Executer:
+_Step 3_:
+Execute:
  ```cd BotDiscordPythonOld```
- pour allez dans le dossier du bot
+ to go to the bot folder
 
-_Etape 4_:
-Executer:
+_Step 4_:
+Execute:
  ```python main.py```
- pour executer le bot
+ to run the bot
 
-## Démarrage
+## Made with
 
-Executer le fichier bot.py
-
-## Fabriqué avec
-
-_Le logiciel :_
-* [Geany](http://geany.org) - Editeur de texte + me permet d'executer le projet pour le tester.
+_The software :_
+* [Geany](http://geany.org) - Text editor + allows me to run the project to test it.
 
 ## Auteurs
 
-* **Zerbaib** _alias_ [@ZerbaibDev](https://github.com/Zerbaib)
+* **Zerbaib** _a.k.a_ [@ZerbaibDev](https://github.com/Zerbaib)
